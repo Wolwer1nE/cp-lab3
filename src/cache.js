@@ -1,0 +1,4 @@
+class Cache{
+
+}
+export {Cache}
